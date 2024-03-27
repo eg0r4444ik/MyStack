@@ -1,0 +1,31 @@
+﻿<Window x:Class="MyStack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyStack"
+        mc:Ignorable="d"
+        Title="Стек" Height="200" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Текущий элемент:" Grid.Row="0"/>
+        <TextBlock x:Name="txtCurrentElement" Grid.Row="0" Margin="100,0,0,0"/>
+        <TextBlock Text="Количество элементов:" Grid.Row="1"/>
+        <TextBlock x:Name="txtCount" Grid.Row="1" Margin="130,0,0,0"/>
+        <TextBlock Text="Пуст ли стек?" Grid.Row="2"/>
+        <TextBlock x:Name="txtIsEmpty" Grid.Row="2" Margin="95,0,0,0"/>
+        <TextBlock Text="Введите значение элемента:" Grid.Row="3"/>
+        <TextBox x:Name="txtInput" Grid.Row="3" Margin="160,0,0,0"/>
+        <Button Content="Добавить элемент в стек" Click="btnAdd_Click" Grid.Row="4" Margin="0,10,0,0"/>
+        <Button Content="Извлечь элемент из вершины стека" Click="btnRemove_Click" Grid.Row="5" Margin="0,10,0,0"/>
+        <Button Content="Очистить стек" Click="btnClear_Click" Grid.Row="6" Margin="0,10,0,0"/>
+    </Grid>
+</Window>

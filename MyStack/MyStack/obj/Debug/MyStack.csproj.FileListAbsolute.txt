@@ -1,0 +1,15 @@
+C:\Users\egorc\MyStack\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\egorc\MyStack\MyStack\bin\Debug\MyStack.exe
+C:\Users\egorc\MyStack\MyStack\bin\Debug\MyStack.pdb
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.csproj.AssemblyReference.cache
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MainWindow.g.cs
+C:\Users\egorc\MyStack\MyStack\obj\Debug\App.g.cs
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack_MarkupCompile.cache
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack_MarkupCompile.lref
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MainWindow.baml
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.g.resources
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.cache
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.exe
+C:\Users\egorc\MyStack\MyStack\obj\Debug\MyStack.pdb
